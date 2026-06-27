@@ -17,14 +17,10 @@ A simple console-based banking system built in C.
 
 ## How to Run
 
-1. Make sure you have **gcc** installed.
+1. Make sure **gcc** is installed.
 
-2. Clone or download the repository.
-
-3. Open terminal / command prompt in the project folder and run:
+2. Open terminal in the project folder and run:
 
    ```bash
    gcc c-bank.c -o bank
-   
-   ```bash
    ./bank
