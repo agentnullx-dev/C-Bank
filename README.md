@@ -1,6 +1,6 @@
-# Simple Banking System
+# C-Bank
 
-A console-based banking application written in C.
+A simple console-based banking system built in C.
 
 ## Features
 - User Registration
@@ -17,11 +17,11 @@ A console-based banking application written in C.
 
 ## How to Run
 
-1. Make sure you have `gcc` installed.
+1. Make sure you have **gcc** installed.
 
-2. Save the code as `finalbank.c`
+2. Clone or download the repository.
 
-3. Open terminal / command prompt in the same folder and run:
+3. Open terminal / command prompt in the project folder and run:
 
    ```bash
-   gcc finalbank.c -o bank
+   gcc c-bank.c -o bank
