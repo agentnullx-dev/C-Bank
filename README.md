@@ -12,13 +12,16 @@ A console-based banking application written in C.
 
 ## Technologies Used
 - C Programming Language
-- Standard I/O (stdio.h)
-- String handling (string.h)
+- Standard I/O (`stdio.h`)
+- String handling (`string.h`)
 
 ## How to Run
 
-1. Compile the program:
+1. Make sure you have `gcc` installed.
+
+2. Save the code as `finalbank.c`
+
+3. Open terminal / command prompt in the same folder and run:
+
    ```bash
    gcc finalbank.c -o bank
-2. Run
-3. ./bank
