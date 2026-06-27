@@ -24,3 +24,4 @@ A simple console-based banking system built in C.
    ```bash
    gcc c-bank.c -o bank
    ./bank
+:D
