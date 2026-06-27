@@ -1,3 +1,13 @@
+/*
+ * ================================================
+ * C-Bank
+ * Simple Console Banking System in C
+ * 
+ * Author : Adithiyaa (Self-taught Developer)
+ * 
+ * Features: Registration, Login, Balance, Deposit & Withdraw
+ * ================================================
+ */
 #include <stdio.h>
 #include <string.h>
 
