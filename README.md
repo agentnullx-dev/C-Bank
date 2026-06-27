@@ -20,3 +20,5 @@ A console-based banking application written in C.
 1. Compile the program:
    ```bash
    gcc finalbank.c -o bank
+2. Run
+3. ./bank
